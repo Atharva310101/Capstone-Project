@@ -1,5 +1,7 @@
 # Enhancing Biomedical QA through Task-Adaptive Pretraining: A Transfer Learning Approach
 
+## Author : Atharva Pargaonkar
+
 ## Project Overview
 This project explores **transfer learning and Task-Adaptive Pre-Training (TAPT)** to enhance the performance of general-purpose language models on biomedical question answering tasks. Specifically, we adapt models originally trained on the **BoolQ** dataset (general yes/no questions) to the **PubMedQA** dataset (biomedical yes/no questions) to improve domain-specific reasoning and accuracy.
 
